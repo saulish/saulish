@@ -8,7 +8,7 @@ Soy un desarrollador con habilidades sólidas en C++ y Python, especialmente enf
 Actualmente estoy aprendiendo Java. Si tienes consejos o recursos interesantes sobre POO con java, ¡no dudes en compartirlos!
 
 ## Cómo contactarme 📫
-Puedes encontrarme en [LinkedIN](https://www.linkedin.com/in/saul-shdez/) ,o en [Instagram]([www.instagram.com](https://www.instagram.com/saul_ish/)).
+Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/saul-shdez/) o en [Instagram(https://www.instagram.com/saul_ish/)).
 
 ## Dato curioso ⚡
 Hace un par de años no tenía absoluta idea de la programación, y ahora es mi día a día!!. ¡La vida es más divertida cuando usas C++!

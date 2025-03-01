@@ -12,6 +12,7 @@ Actualmente, estoy ampliando mis conocimientos en **machine learning y sistemas 
 - 🔹 **Sistema de recomendación musical:** Utiliza **grafos y el algoritmo de Dijkstra** con APIs de Spotify y Deezer.
 - 🔹 **Simulación de planificación de procesos:** Implementación en **C++** de estrategias como FIFO y Round Robin.
 - 🔹 **Aplicación web con Flask:** Backend con autenticación y manejo de playlists de Spotify.
+- 🔹 **SistemaAccesoLab:** Implementación de autenticación mediante **reconocimiento facial y keypad** Me encargué del **backend y la integración del modelo de reconocimiento facial**, utilizando **face-api.js** para la detección de rostros y comunicación con la base de datos.
 
 ## Cómo contactarme 📫
 Puedes encontrarme en **[LinkedIn](https://www.linkedin.com/in/saul-shdez/)**

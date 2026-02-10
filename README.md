@@ -1,21 +1,44 @@
-# ¡Hola! 👋 Soy Saul (@saulish)
+# Hi! 👋 I'm Saul (@saulish)
 
-¡Bienvenido a mi espacio en GitHub! Aquí encontrarás algunos de mis proyectos, ideas y experimentos. 🚀
+Welcome to my GitHub 🚀  
+Here you’ll find projects focused on **backend engineering, systems and algorithms**, along with experiments exploring how to build efficient, reliable and well-designed software.
 
-## Acerca de mí 👀
-Soy un desarrollador con un fuerte interés en **backend, inteligencia artificial y sistemas operativos**. Me especializo en **C++ y Python**, y he trabajado con **bases de datos SQL, desarrollo web, algoritmos y sistemas concurrentes**. También tengo experiencia con ensamblador para arquitectura x86 y me gusta explorar el funcionamiento de bajo nivel en los sistemas.
+## About me 👨‍💻
+I am a **computer engineering graduate candidate** with a strong focus on **backend and systems**, and production experience after completing a one-year internship at **HP**. I primarily work with **Python and C/C++**, and I am deeply interested in how systems work under the hood: concurrency, process execution, isolation, performance and efficient resource usage.
 
-## Aprendizaje en curso 🌱
-Actualmente, estoy ampliando mis conocimientos en **machine learning y sistemas distribuidos**. También me interesa mejorar mis habilidades en **arquitecturas modernas y optimización de código en C++**.
+I have built scalable backends, asynchronous pipelines and systems that integrate **external APIs, databases and algorithms**, with attention to both architecture and real-world production impact.
 
-## Proyectos destacados ✨
-- 🔹 **Sistema de recomendación musical:** Utiliza **grafos y el algoritmo de Dijkstra** con APIs de Spotify y Deezer.
-- 🔹 **Simulación de planificación de procesos:** Implementación en **C++** de estrategias como FIFO y Round Robin.
-- 🔹 **Aplicación web con Flask:** Backend con autenticación y manejo de playlists de Spotify.
-- 🔹 **SistemaAccesoLab:** Implementación de autenticación mediante **reconocimiento facial y keypad** Me encargué del **backend y la integración del modelo de reconocimiento facial**, utilizando **face-api.js** para la detección de rostros y comunicación con la base de datos.
+## Areas of interest 🧠
+- Backend engineering and API design  
+- Concurrent systems and multithreading  
+- Docker and isolated execution environments  
+- Algorithms and data structures (especially graphs)  
+- Performance optimization and memory efficiency  
+- ML applied to systems (embeddings, similarity, analysis)
 
-## Cómo contactarme 📫
-Puedes encontrarme en **[LinkedIn](https://www.linkedin.com/in/saul-shdez/)**
+## Featured projects ✨
+- 🔹 **Graph-based Music Recommendation**  
+  **FastAPI** backend integrating **Spotify and Deezer APIs**, **PostgreSQL** caching and **graph-based models with Dijkstra** for embedding-driven recommendations.
 
-## Dato curioso ⚡
-Hace un par de años no tenía idea de programación, y ahora es una de mis pasiones. ¡La vida es más divertida cuando usas C++! 😃
+- 🔹 **Process Scheduling Simulator (C++)**  
+  Simulation of operating system scheduling algorithms such as **FIFO and Round Robin**, reinforcing systems fundamentals.
+
+- 🔹 **Biometric Access System (Backend)**  
+  **Flask** backend with biometric authentication (facial recognition and keypad) and database integration for access control.
+
+- 🔹 **Assembly Neural Network (x86)**  
+  Exploratory project implementing basic neural network operations in **x86 assembly**, focusing on low-level computation and register-level reasoning.
+
+## Continuous learning 🌱
+Currently deepening my knowledge in:
+- Scalable and reliable backend systems  
+- Advanced concurrency and profiling  
+- ML/DL applied to real-world systems  
+- Modern C++ and Python design practices
+
+## Get in touch 📫
+- 💼 LinkedIn: https://www.linkedin.com/in/saul-shdez/
+
+## Fun fact ⚡
+I started with zero programming knowledge and ended up obsessed with **C++**, systems and squeezing performance out of every resource.  
+Understanding what happens “under the hood” makes everything more fun 😄
